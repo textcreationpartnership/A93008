@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Several useful queries, and seasonable, if well used, and right answered being propounded for the safety of the king and his freeborn subjects.</title>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93008</idno><idno type="EEBO-CITATION">38875875</idno>
+  <idno type="VID">152367</idno>
+  <idno type="EEBO-PROQUEST">2240876780</idno>
+  
+            <idno type="STC">Wing S2814A</idno>
+            <idno type="STC">ESTC R42871</idno>
+            <idno type="OCLC">38875875</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A93008)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152367)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2294:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Several useful queries, and seasonable, if well used, and right answered being propounded for the safety of the king and his freeborn subjects.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the Year, 1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  II, --  King of England, 1630-1685.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152367:1"/>
+            <p>SEVERAL USEFUL QUERIES, And Seasonable, if well used, and right Answered. Being Propounded for the Safety of the King And his Free-born Subjects.</p>
+            <q>
+               <hi>Take away the wicked from before</hi> [or, the <hi>wickedness of] the King, and his Throne shall be established in Righteousness,</hi>
+               <bibl>Prov. 25. 5.</bibl>
+            </q>
+            <q>Confidence in an unfaithful man in a time of trouble, is like a bro<g ref="char:EOLhyphen"/>ken tooth, or a foot out of joynt,<bibl>Prov. 25. 19.</bibl>
+            </q>
+            <q>
+               <hi>But let not</hi> Pharoah <hi>deal deceitfully any more, in not letting the People go to sacrifice to the Lord,</hi>
+               <bibl>Exod. 8. 29.</bibl>
+            </q>
+            <q>Pharoah <hi>King of</hi> Egypt <hi>is but a noise; he hath passed the time ap<g ref="char:EOLhyphen"/>pointed,</hi>
+               <bibl>Jer. 46. 17.</bibl>
+            </q>
+            <q>Wherefore, O King, let my counsel be acceptable unto thee, and break off thy sins by Righteousness, and thy iniquities by shewing mercy unto the poor; it may be a lengthning of thy tranquility.<bibl>Dan. 4. 27.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1662.</p>
+         </div>
+      </front>
+      <body>
+         <div type="queries">
+            <pb facs="tcp:152367:2"/>
+            <pb n="3" facs="tcp:152367:2"/>
+            <head>Several Useful <hi>QUERIES,</hi> and Seasonable, if well used, and right Answered. Being Propounded for the SAFETY of the KING and his Free-born Subjects.</head>
+            <head type="sub"> IN <hi>Three things, soberly queried upon for the safety of his Majesties Royal Person, and of all his loyal Subjects.</hi>
+            </head>
+            <div n="1" type="part">
+               <p n="1">1. <seg rend="decorInit">W</seg>Hether it be not most safe for our Lord the King, to continue and keep in force all the old Sta<g ref="char:EOLhyphen"/>tutes and Laws, made for the good of his Sub<g ref="char:EOLhyphen"/>jects, he being sworn so to do at his Corona<g ref="char:EOLhyphen"/>tion and Annointing, and not to suffer any Parliament to make or bring him any Bill, or himself to sign the same, for the nulling there<g ref="char:EOLhyphen"/>of? because he is sworn to keep them all.</p>
+               <p n="2">2. Whether it be not safe for our Lord the King, to fulfil all the Contents of his Declarations and Remonstrances, before his Corona<g ref="char:EOLhyphen"/>tion; with his large Promises upon the Word of a King, to assure all his Subjects of the truth thereof, when there is no Act, nor Statute-Law in force, to hinder the effectual performance of the same? And whe<g ref="char:EOLhyphen"/>ther any Act made by any ensuing Parliament, to obstruct the Peoples enjoyment of those declared Promises, be not very prejudicial to his Royal Word and Person?</p>
+               <p n="3">3. Whether it be not safe for the King, to conveen Parliaments by the general Suffrages of the People, as in the first Parliament of <hi>Edw.</hi> 3<seg rend="sup">d</seg>, after Writs published and Proclamation made, and not by Letters of Election, &amp;c. <hi>Numb.</hi> 2. and that none should come Armed with Weapons to the Parliament? And whether those Parliaments ought not to act according to the best example of Parliaments, (<hi>viz.</hi>) that in the 13th of <hi>Edward</hi> the 3d, <hi>Num.</hi> 8, 9. who durst not give their Consents to any Bill, for the sessing any Tax, upon the Ninth Sheaf of
+<pb n="4" facs="tcp:152367:3"/> their Corn, Ninth Fleece and Lamb, &amp;c, until they had advised with the Commons and Freemen in the Country, that chose them? And whether the Statute in the 34th of <hi>Edward</hi> the first, chap. 1. <hi>That no Tallage nor Aid, &amp;c. should be levied, by Us, or our Heirs, in our Realm▪ without the Consent, not only of Archbishops, Bishops, Earls, Barons, Knights, Burgesses, &amp;c. but all other Freemen of the Land,</hi> was not the ground of their so doing? and whether other Statutes, of a later date, do not express the same order? as the Statute in the 14th of <hi>Edw.</hi> the 3d, chap. 21. and the Statute in the 25th of <hi>Edw.</hi> the 3d, chap. 8. and the Stat. of the 36th of <hi>Edw.</hi> the 3d. and the Petitions of Right in the 3d of <hi>Charles</hi> the first. By which Statute, and other good Statutes of this Realm, nothing ought to be against the inherited Freedom of the Subjects, and that they should not be brought, nor compelled to contribute any Tax, Tallage, Aid, or other like charge, not set by common consent in Parliament; and whether this common consent in Parliament, be not according to the Examples afore-men<g ref="char:EOLhyphen"/>tioned? and whether Parliaments that act contrary, be not the only enemies to the Statute-Laws and their Country?</p>
+               <p n="4">4. Whether it be not safe for the King, according to the contents of the 30th chap. of <hi>Magna Charta,</hi> that the Lands, Rents, Goods of alien Marchants, Papists, &amp;c. residing in <hi>England,</hi> be seized and secu<g ref="char:EOLhyphen"/>red, to prevent the giving of Intelligence how to plot or undermine his Government? and whether it was not upon this ground, the express Statute of 2. <hi>Hen.</hi> 4. chap. 12, 20. 1 <hi>Hen.</hi> 4 chap. 7, 8. 3 <hi>Hen.</hi> 5. ch. 3. 4 <hi>Hen.</hi> 5. ch. 6. 1 <hi>Hen.</hi> 6. ch. 3. That neither <hi>Irish, Welch<g ref="char:EOLhyphen"/>men Brittons, &amp;c.</hi> should purchase House or Land in any place of the Realm, or to reside or be in either Court, Fort, Town, or City, in the same to prevent Treachery? and whether this would not be a good work to be done now, to prevent an inundation of Popery? and whe<g ref="char:EOLhyphen"/>ther the Statute in the 23d of <hi>Elizabeth,</hi> chap. 4. enjoyn not the same.</p>
+               <p n="5">5. Whether it be not safe for our Lord the King, to uphold and maintain onely one universal and general Interest, and to make no dif<g ref="char:EOLhyphen"/>ference between himself and Subjects? since Nature hath provided life to be either in body or head no longer than they are united; and if only to regard the head, and neglect the body, be not the only way to bring a ruine and death upon both? And whether the power to grant Patentees and Protections to some few, that abuse the rest of his loyal Subj<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cts, be not the preserving of a particular Interest, and not the general?</p>
+            </div>
+            <div n="2" type="part">
+               <pb n="5" facs="tcp:152367:3"/>
+               <head>2ly. <hi>Since particular Interests are promoted,</hi>
+               </head>
+               <p n="1">1. Whether it be not the duty of every English-man to preserve his Right and Freedom, being his inheritance provided him by Nature and the Statute-Laws, and to suppress all that violate them? And if those that promote particular Interest, do apprehend, try, judge, and kill them for doing their duty, whether then those are not Martyrs for their Country? and whether all those that have performed their duty in the like kind, within these twenty one years, whether they lost their lives in the field or otherwise, were not Martyrs for their Country also? and whether the People can be safe if they neglect their duty?</p>
+               <p n="2">2. Whether it be not the Peoples Right, to have all Promises from their Liege Lord performed, that he hath promised them for the en<g ref="char:EOLhyphen"/>joyment of their Common, Civil, and Religious Freedom? and whe<g ref="char:EOLhyphen"/>ther a man of words ever did his Country good, without his deed ac<g ref="char:EOLhyphen"/>cordingly? and whether the People can be safe, unless all their Pro<g ref="char:EOLhyphen"/>mises are fulfilled?</p>
+               <p n="3">3. Whether it be not great oppression (upon the miscarriage of some people) for them that are innocent to be deprived of their promised Liberty, and their bodies imprisoned, their houses searched, by the botches, boyls and scum of a Commonwealth, as their rude debauch<g ref="char:EOLhyphen"/>ed behaviour, by their swearing and damming, and taking away mens Arms, Money, Plate, &amp;c. without Licence, and afterwards take a sum of Money from some third person, to release him, do not prove them to be a company of unrighteous Caterpillers? and whether this oppression and unrighteousness be not countenanced, to have an Act of Oblivion granted particularly to such rude fellows, to obstruct a course of Law, and to disenable the loyal Subjects of the King to right them<g ref="char:EOLhyphen"/>selves (for those injuries done them) according to Law? and whether such practices do make the People happy and safe?</p>
+               <p n="4">4. Whether it be not lawful, and encouraged by the Promise of the King, for all the People (especially all those who have had many good things promised them, but as yet no good deeds done them) to joyn in an Association, and not any more to suffer such fellows, under any pretence whatsoever, to do the like, but to stand upon their guards in their own houses respectively, and keep them out? And whether this be not warranted by the common Law-books? and whether Judge <hi>Cook</hi> was not mistaken to say they might do so, and that it was
+<pb n="6" facs="tcp:152367:4"/> no Murder if the housekeeper did kill any such attempters? Whether now, as the case stands, the People can be safe, if they do not so asso<g ref="char:EOLhyphen"/>ciate? and whether such an Association will not make the King more safe than all that hath been done since his coming to his Throne?</p>
+               <p n="5">5. Whether it be not Treason for the People to confess the unrigh<g ref="char:EOLhyphen"/>teousness and sin of the Governours and Nobles of a Nation, in their prayers, and use <hi>Daniel's</hi> words, (viz.) <hi>We, our Kings, our Princes, and our Fathers have sinned,</hi> and conclude with one of the Respon<g ref="char:EOLhyphen"/>sials in the Common-Prayer-Book, <hi>Lord have mercy on them?</hi> and whether the People can be safe and avoid the Judgment of Heaven, if they do not so confess their sin, and pray for them? or else how shall the Curse that's upon them depart? <hi>Dan.</hi> 9. 8, 11, 12, 13, 14.</p>
+            </div>
+            <div n="3" type="part">
+               <head>3ly. <hi>Since sin and unrighteousn<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ss aboundeth, and the People bound to make Confession to God;</hi>
+               </head>
+               <p n="1">1. Whether it be safe for King and Subject, to reade the Prayers made by the Church of <hi>England,</hi> when the Spirit of God in the Go<g ref="char:EOLhyphen"/>spel bids them <hi>pray with the Spirit and understanding,</hi> And the Ca<g ref="char:EOLhyphen"/>nons of the Church commands them to read Prayer; and the Apostle saith, <hi>Rom. 8. 26. We know not what to pray for as we ought without the Spirits help;</hi> and yet these superstitious Priests will undertake to teach all the People of God to reade Prayer, contrary to the Com<g ref="char:EOLhyphen"/>mand in the Gospel and the help of the holy Ghost, and so stifle a gift of Prayer, and grieve the holy Spirit? And whether God will re<g ref="char:EOLhyphen"/>gard such Readers, that so oppose him, or give them a return, that so contradict him? Or, if it can be in the least thought, that a Spirit of Holiness and Sanctification can ever rest and be in men that delight in Prophaness, Idolatry and Superstition? and whether such Prayer-men and their Prayers, be ought else unto the Lord but (yellings and howlings of Dogs, Lions, and Bears) Abomination? <hi>Jer. 51. 38. Prov.</hi> 25. 8. and 21. 27. <hi>Isa. 1. 11. To what purpose</hi> then <hi>is the multitude of your Sacrifices?</hi> [such Prayers] <hi>I am weary of your Abo<g ref="char:EOLhyphen"/>minations.</hi> And whether in a short time God will not be angry and a weary of these Prayer-men, and their Prayers also?</p>
+               <p n="2">2. Whether it be safe for either King or Subject to believe there is any other spirit in these Priests and Sursingle-men, than was in the Pro<g ref="char:EOLhyphen"/>phets
+<pb n="7" facs="tcp:152367:4"/> of King <hi>Ahab,</hi> when <hi>Zedekiah</hi> the son of <hi>Chenaanah</hi> went near and smote <hi>Micaiah</hi> on the cheek, 1 <hi>King.</hi> 22. 24. and do ma<g ref="char:EOLhyphen"/>nage their spirit as well, and would be smiting all the honest <hi>Presby<g ref="char:EOLhyphen"/>ters</hi> and others, termed <hi>Phanaticks,</hi> that preach the Gospel, elegant<g ref="char:EOLhyphen"/>ly, spiritually and powerfully in the Nation, by getting power from the King to put those poor men into Prison, and feed them there with bread and water of affliction, that their Ignorance might not be dis<g ref="char:EOLhyphen"/>covered, nor their Peace disturbed? 1 <hi>King.</hi> 22. 27. And whether there be any other zeal in these fellows, than was in the Priests of <hi>Baal</hi> and Prophets afore▪ mentioned, who were only zealous in Persecution, Falshood and Lyes? And whether those that Christ sends to preach the Gospel do resolve the fall of <hi>Adam,</hi> as one Mr. <hi>Garret,</hi> a learned man in holy Orders did, <hi>to be only a wind that blew him down from the wall where he was set to dry;</hi> Or, as another said that was in holy Orders also, <hi>That God forbad the Jews to eat Swines fl<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>sh, and</hi> Adam <hi>killed a Pig and ate it, and that was the forbidden fruit:</hi> Or as one Dr. <hi>Powry</hi> of <hi>Bishopsgate,</hi> not long since, on a Collection-day, affirmed, <hi>that Ministers of the Gospel must be comely handsome men?</hi> And whether these be not all lyars, and do erre, not knowing the Truth, when the Text saith, <hi>Acts 10. 34. God is no respecter of persons,</hi> and Luke 20. 21. <hi>I know thou art just, and accepts no mans person;</hi> and Gal. 2. 6. the same? And whether a Minister receive from Christ a spirit of prophaness, as in Dr. <hi>Reeve</hi> Dean of <hi>Windsor,</hi> not long since in <hi>Pauls</hi> Churchyard at the <hi>three Crowns,</hi> being moved about a Pe<g ref="char:EOLhyphen"/>tition, answered▪ <hi>Gods-wounds he could do no more than he could, but By God he would do what he could?</hi> And in like manner the reverend Bishop <hi>Perce,</hi> coming into a Barbors-shop where one Mr. <hi>Maker<g ref="char:EOLhyphen"/>ness</hi> was a trimming, the said <hi>Makerness</hi> offered him his seat, with some such complement as this; He was glad to see his Lordship in good health. Quoth the Bishop, dost thou know me? Yes, said Mr. <hi>Markerness,</hi> you are the Reverend Father in God, Lord Bishop of <hi>Bath</hi> and <hi>Wells.</hi> What's thy name, quoth the Bishop? my name is <hi>Makerness.</hi> The Bishop presently swares, <hi>Godswounds, a Pillar of the Church!</hi> and whether, if God give not these men repentance, they are not like to go to <hi>Ahabs</hi> and <hi>Baals</hi> Prophets, being of so like a spi<g ref="char:EOLhyphen"/>rit, and so near affinity in their works?</p>
+               <p n="3">3. Whether it be not safe for King and Subjects, to keep off and avoid all Ecclesiastical Imposition, since the <hi>Puritan</hi> Spirit is so increa<g ref="char:EOLhyphen"/>sed, that for <hi>one Puritan</hi> in the year 1640, there is now <hi>ten Phana<g ref="char:EOLhyphen"/>ticks?</hi>
+                  <pb n="8" facs="tcp:152367:5"/> and whether the breaking this ten-fold cord will not break all in pieces?</p>
+               <p n="4">4. Whether it be not safe for King and Subject, to nip the Pride and Covetousness of these Ecclesiastical men in the Bud, lest by their Pride and Insolency they swell so high, as to renew our Distractions, and bring all into Blood again?</p>
+               <p n="5">5. Whether there be such a spirit in King, Church, or State, to give a quiet Responsial, and not to thirst after the Blood of <hi>him</hi> and <hi>them,</hi> that wish both King and Subject peace and safety, will be great cause of joy to him and them? otherwise, Whether it be Treason, to con<g ref="char:EOLhyphen"/>clude with <hi>David's</hi> Prayer in <hi>Psal. 43. 1. Judge me, O God, and plead my Cause against an ungodly Nation, and deliver me from the deceit<g ref="char:EOLhyphen"/>full and unjust men▪ &amp;c.</hi>
+               </p>
+               <epigraph>
+                  <q>Sic transit Gloria Mundi.</q>
+               </epigraph>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
